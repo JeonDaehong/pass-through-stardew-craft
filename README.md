@@ -5,14 +5,45 @@
 ([OpenBW](https://github.com/OpenBW/openbw))이 별도 프로세스에서 시뮬레이션합니다.
 두 게임이 공유 메모리로 매 프레임 상태를 주고받습니다.
 
-<!--
-스크린샷: docs/screenshots/ 에 PNG를 넣고 아래 주석을 풀어 주세요. 게임 안에서 F8로 찍을 수 있습니다.
+![10단계 보스 습격: 마을 광장을 뒤덮은 연합군](docs/screenshots/16-town-stage10-boss.png)
 
-![농장 습격](docs/screenshots/raid.png)
-![작물로 산 시즈탱크·미사일 터렛 방어선](docs/screenshots/defence.png)
-![마을 주민과 동물이 함께 싸우는 장면](docs/screenshots/allies.png)
-![작물을 먹으러 가는 저글링](docs/screenshots/crop-raiders.png)
--->
+## 스크린샷
+
+모든 장면은 게임 안에서 F8로 찍었습니다.
+
+| | |
+|---|---|
+| ![1단계 저글링 정찰대가 닭장에 등장](docs/screenshots/03-coop-stage1-zerglings.png) | ![저글링에게 닭이 당함](docs/screenshots/04-coop-chicken-killed.png) |
+| 1단계: 닭장에 나타난 저글링 정찰대 | 동물이 쓰러지면 알림이 뜹니다 |
+| ![3단계 질럿과 히드라가 농장을 가로지름](docs/screenshots/06-farm-stage3.png) | ![농장 동물들 곁에서 쓰러진 습격자](docs/screenshots/07-farm-animals-fight.png) |
+| 3단계: 질럿과 히드라 | 농장 동물 곁에서 벌어진 전투 |
+| ![밭으로 숨어드는 저글링](docs/screenshots/10-crops-zergling.png) | ![5단계 공중 습격](docs/screenshots/11-beach-stage5-air-raid.png) |
+| 작물을 노리고 밭에 들어온 저글링 | 5단계: 공중 습격 |
+| ![마을 주민이 칼을 휘두름](docs/screenshots/12-town-villager-fights.png) | ![습격에 쓰러져 병원에서 깨어남](docs/screenshots/17-clinic-knocked-out.png) |
+| 주민이 칼을 들고 합류 | 지면 병원에서 깨어나고 돈을 잃습니다 |
+
+<details>
+<summary>전체 17장</summary>
+
+![](docs/screenshots/01-title.png)
+![](docs/screenshots/02-coop-quiet.png)
+![](docs/screenshots/03-coop-stage1-zerglings.png)
+![](docs/screenshots/04-coop-chicken-killed.png)
+![](docs/screenshots/05-coop-aftermath.png)
+![](docs/screenshots/06-farm-stage3.png)
+![](docs/screenshots/07-farm-animals-fight.png)
+![](docs/screenshots/08-farm-raider-down.png)
+![](docs/screenshots/09-crops.png)
+![](docs/screenshots/10-crops-zergling.png)
+![](docs/screenshots/11-beach-stage5-air-raid.png)
+![](docs/screenshots/12-town-villager-fights.png)
+![](docs/screenshots/13-town-villager-swing.png)
+![](docs/screenshots/14-town-chase.png)
+![](docs/screenshots/15-town-raiders-down.png)
+![](docs/screenshots/16-town-stage10-boss.png)
+![](docs/screenshots/17-clinic-knocked-out.png)
+
+</details>
 
 ## 무엇을 하나
 
