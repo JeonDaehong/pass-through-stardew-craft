@@ -1,0 +1,10 @@
+{
+  "Name": "StardewCraft",
+  "Author": "daehong",
+  "Version": "0.1.0",
+  "Description": "Passthrough mod: StarCraft units simulated by a headless OpenBW process, living in Stardew Valley.",
+  "UniqueID": "daehong.StardewCraft",
+  "EntryDll": "StardewCraft.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

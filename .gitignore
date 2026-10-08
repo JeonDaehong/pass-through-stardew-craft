@@ -1,0 +1,12 @@
+# StarCraft data extracted from your own install: Blizzard content, never commit it.
+data/
+
+# Build output
+build/
+**/bin/
+**/obj/
+
+# Editors and tools
+.vs/
+*.user
+__pycache__/

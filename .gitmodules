@@ -1,0 +1,6 @@
+[submodule "third_party/openbw"]
+	path = third_party/openbw
+	url = https://github.com/OpenBW/openbw.git
+[submodule "third_party/CascLib"]
+	path = third_party/CascLib
+	url = https://github.com/ladislav-zezula/CascLib.git
